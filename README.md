@@ -9,6 +9,8 @@ IPV4 only
 
 参考：https://github.com/wangyu-/UDPping
 
+TODO:没有设计丢包，到时候再看看罢
+
 # Getting Started
 
 ### Step 1
