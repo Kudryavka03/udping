@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "udping", "udping\udping.csproj", "{C8D1480A-55C6-45FC-A5AC-9D3F7931D465}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8D1480A-55C6-45FC-A5AC-9D3F7931D465}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8D1480A-55C6-45FC-A5AC-9D3F7931D465}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8D1480A-55C6-45FC-A5AC-9D3F7931D465}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8D1480A-55C6-45FC-A5AC-9D3F7931D465}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEBFB57A-F746-4A8A-9C08-6C1B1CDCC1B6}
+	EndGlobalSection
+EndGlobal

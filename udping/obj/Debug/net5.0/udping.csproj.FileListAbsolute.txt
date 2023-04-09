@@ -1,0 +1,16 @@
+D:\Coding\udping\udping\udping\bin\Debug\net5.0\udping.exe
+D:\Coding\udping\udping\udping\bin\Debug\net5.0\udping.deps.json
+D:\Coding\udping\udping\udping\bin\Debug\net5.0\udping.runtimeconfig.json
+D:\Coding\udping\udping\udping\bin\Debug\net5.0\udping.runtimeconfig.dev.json
+D:\Coding\udping\udping\udping\bin\Debug\net5.0\udping.dll
+D:\Coding\udping\udping\udping\bin\Debug\net5.0\udping.pdb
+D:\Coding\udping\udping\udping\obj\Debug\net5.0\udping.csproj.AssemblyReference.cache
+D:\Coding\udping\udping\udping\obj\Debug\net5.0\udping.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\udping\udping\udping\obj\Debug\net5.0\udping.AssemblyInfoInputs.cache
+D:\Coding\udping\udping\udping\obj\Debug\net5.0\udping.AssemblyInfo.cs
+D:\Coding\udping\udping\udping\obj\Debug\net5.0\udping.csproj.CoreCompileInputs.cache
+D:\Coding\udping\udping\udping\obj\Debug\net5.0\udping.dll
+D:\Coding\udping\udping\udping\obj\Debug\net5.0\refint\udping.dll
+D:\Coding\udping\udping\udping\obj\Debug\net5.0\udping.pdb
+D:\Coding\udping\udping\udping\obj\Debug\net5.0\udping.genruntimeconfig.cache
+D:\Coding\udping\udping\udping\obj\Debug\net5.0\ref\udping.dll
